@@ -1,0 +1,12 @@
+config.yaml
+# Ambientes virtuais Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
